@@ -20,6 +20,8 @@ def clik():
 
 my_b=Button(main_w,text='submit',command=clik,padx=10,pady=10,)
 
+print("sdfg")
+
 my_b.pack(pady=10,padx=10)
 
 main_w.mainloop()
